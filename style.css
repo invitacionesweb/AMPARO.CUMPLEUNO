@@ -306,7 +306,7 @@ main p {
 .quote {
     background-color: var(--color-secundario);
     height: auto;
-    padding: 20px 0;
+    padding: 26px 0;
     color: var(--color-principal);
     display: flex;
     justify-content: center;
